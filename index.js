@@ -6,7 +6,7 @@ const puppeteer = require('puppeteer');
   const viewport = {width:1440,height:1080};
   page.setViewport(viewport);
   await page.goto('https://guides.service.gov.au');
-  await page.screenshot({path: 'output/output.png'});
+  await page.screenshot({path: 'output/output.png',fullPage: true});
 
   await browser.close();
 })();
