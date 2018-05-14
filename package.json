@@ -1,0 +1,15 @@
+{
+  "name": "puppeteer_guides_tests",
+  "version": "1.0.0",
+  "description": "regression testing screencaps for Digital Guides",
+  "main": "index.js",
+  "dependencies": {
+    "puppeteer": "^1.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC"
+}
