@@ -44,7 +44,7 @@ if (!fs.existsSync(dir)){
   for (let i = 0; i < data.pages.length; i++) {
     await page.goto(env + data.pages[i].path);
     await page.screenshot({path: 'output/'+ i +'-'+ data.pages[i].name + '.png',fullPage: true});
-    console.log("Snapped a screenshot of " + env + data.pages[i].path);
+    console.log("📸 Snapped a screenshot of " + env + data.pages[i].path);
   }
 
 
