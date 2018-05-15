@@ -9,7 +9,9 @@ const data =
   pages: [
     { name: "index",            path: "/" },
     { name: "sitemap",          path: "/sitemap/" },
-    { name: "privacystatement", path: "/privacy-statement/" }
+    { name: "privacystatement", path: "/privacy-statement/" },
+    { name: "dss",              path: "/digital-service-standard/" },
+    { name: "dss1",             path: "/digital-service-standard/1-understand-user-needs/" },
   ]
 }
 
