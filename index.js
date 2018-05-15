@@ -1,6 +1,15 @@
 const puppeteer = require('puppeteer');
 
 
+// make the output directory if it's not there
+const fs = require('fs');
+const dir = 'output/';
+
+if (!fs.existsSync(dir)){
+    fs.mkdirSync(dir);
+}
+
+// puppeteer routine
 (async () => {
   const browser = await puppeteer.launch();
   const page = await browser.newPage();
