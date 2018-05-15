@@ -6,10 +6,10 @@ const viewport = {width:1440,height:1080};
 // the site data
 const data = 
 {
-  "pages": [
-    {"name":"index","path":"/"},
-    {"name":"sitemap","path":"/sitemap/"},
-    {"name":"privacystatement","path":"/privacy-statement/"}
+  pages: [
+    { name: "index",            path: "/" },
+    { name: "sitemap",          path: "/sitemap/" },
+    { name: "privacystatement", path: "/privacy-statement/" }
   ]
 }
 
