@@ -46,6 +46,23 @@ module.exports = {
 { name: "team03", path: "/starting-team/multidisciplinary-team/" },
 { name: "team04", path: "/starting-team/digital-capability-team/" },
 
+// User Research
+{ name: "ur01", path: "/user-research/" },
+{ name: "ur02", path: "/user-research/identifying-users-needs/" },
+{ name: "ur03", path: "/user-research/getting-support/" },
+{ name: "ur04", path: "/user-research/team-research/" },
+{ name: "ur05", path: "/user-research/planning-user-research/" },
+{ name: "ur06", path: "/user-research/planning-user-research/using-existing-research-data/" },
+{ name: "ur07", path: "/user-research/research-stages/" },
+{ name: "ur08", path: "/user-research/find-user-research-participants/" },
+{ name: "ur09", path: "/user-research/interviewing-users/" },
+{ name: "ur10", path: "/user-research/consent-forms/" },
+{ name: "ur11", path: "/user-research/paying-incentives/" },
+{ name: "ur12", path: "/user-research/analysing-user-research/" },
+{ name: "ur13", path: "/user-research/understanding-diversity/" },
+
+// Content Strategy Guide
+
         ]
       }
     )
