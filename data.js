@@ -24,7 +24,15 @@ module.exports = {
 { name: "dss10", path: "/digital-service-standard/10-test-the-service/" },
 { name: "dss11", path: "/digital-service-standard/11-measure-performance/" },
 { name: "dss12", path: "/digital-service-standard/12-non-digital-experience/" },
-{ name: "dss13", path: "/digital-service-standard/13-encourage-use-of-the-digital-service/" }
+{ name: "dss13", path: "/digital-service-standard/13-encourage-use-of-the-digital-service/" },
+
+{ name: "sdd01", path: "/service-design-delivery-process/" },
+{ name: "sdd02", path: "/service-design-delivery-process/get-started/" },
+{ name: "sdd03", path: "/service-design-delivery-process/whole-user-experience/" },
+{ name: "sdd04", path: "/service-design-delivery-process/discovery-stage/" },
+{ name: "sdd05", path: "/service-design-delivery-process/alpha-stage/" },
+{ name: "sdd06", path: "/service-design-delivery-process/beta-stage/" },
+{ name: "sdd07", path: "/service-design-delivery-process/live-stage/" },
 
         ]
       }
