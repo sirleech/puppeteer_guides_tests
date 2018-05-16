@@ -7,9 +7,12 @@ module.exports = {
       {
         pages: [
 
+// Homepage, auxillary pages
 { name: "index", path: "/" },
 { name: "sitemap", path: "/sitemap/" },
 { name: "privacystatement", path: "/privacy-statement/" },
+
+// Digital Service standard
 
 { name: "dss00", path: "/digital-service-standard/" },
 { name: "dss01", path: "/digital-service-standard/1-understand-user-needs/" },
@@ -26,6 +29,8 @@ module.exports = {
 { name: "dss12", path: "/digital-service-standard/12-non-digital-experience/" },
 { name: "dss13", path: "/digital-service-standard/13-encourage-use-of-the-digital-service/" },
 
+// Service design delivery process
+
 { name: "sdd01", path: "/service-design-delivery-process/" },
 { name: "sdd02", path: "/service-design-delivery-process/get-started/" },
 { name: "sdd03", path: "/service-design-delivery-process/whole-user-experience/" },
@@ -33,6 +38,13 @@ module.exports = {
 { name: "sdd05", path: "/service-design-delivery-process/alpha-stage/" },
 { name: "sdd06", path: "/service-design-delivery-process/beta-stage/" },
 { name: "sdd07", path: "/service-design-delivery-process/live-stage/" },
+
+// Starting a team
+
+{ name: "team01", path: "/starting-team/" },
+{ name: "team02", path: "/starting-team/roles/" },
+{ name: "team03", path: "/starting-team/multidisciplinary-team/" },
+{ name: "team04", path: "/starting-team/digital-capability-team/" },
 
         ]
       }
