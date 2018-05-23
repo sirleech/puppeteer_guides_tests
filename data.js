@@ -29,37 +29,40 @@ module.exports = {
 { name: "dss12", path: "/digital-service-standard/12-non-digital-experience/" },
 { name: "dss13", path: "/digital-service-standard/13-encourage-use-of-the-digital-service/" },
 
+// Topics page
+{ name: "topics", path: "/topics/" },
+
 // Service design delivery process
 
-{ name: "sdd01", path: "/service-design-delivery-process/" },
-{ name: "sdd02", path: "/service-design-delivery-process/get-started/" },
-{ name: "sdd03", path: "/service-design-delivery-process/whole-user-experience/" },
-{ name: "sdd04", path: "/service-design-delivery-process/discovery-stage/" },
-{ name: "sdd05", path: "/service-design-delivery-process/alpha-stage/" },
-{ name: "sdd06", path: "/service-design-delivery-process/beta-stage/" },
-{ name: "sdd07", path: "/service-design-delivery-process/live-stage/" },
+{ name: "sdd01", path: "/topics/service-design-delivery-process/" },
+{ name: "sdd02", path: "/topics/service-design-delivery-process/get-started/" },
+{ name: "sdd03", path: "/topics/service-design-delivery-process/whole-user-experience/" },
+{ name: "sdd04", path: "/topics/service-design-delivery-process/discovery-stage/" },
+{ name: "sdd05", path: "/topics/service-design-delivery-process/alpha-stage/" },
+{ name: "sdd06", path: "/topics/service-design-delivery-process/beta-stage/" },
+{ name: "sdd07", path: "/topics/service-design-delivery-process/live-stage/" },
 
 // Starting a team
 
-{ name: "team01", path: "/starting-team/" },
-{ name: "team02", path: "/starting-team/roles/" },
-{ name: "team03", path: "/starting-team/multidisciplinary-team/" },
-{ name: "team04", path: "/starting-team/digital-capability-team/" },
+{ name: "team01", path: "/topics/starting-team/" },
+{ name: "team02", path: "/topics/starting-team/roles/" },
+{ name: "team03", path: "/topics/starting-team/multidisciplinary-team/" },
+{ name: "team04", path: "/topics/starting-team/digital-capability-team/" },
 
 // User Research
-{ name: "ur01", path: "/user-research/" },
-{ name: "ur02", path: "/user-research/identifying-users-needs/" },
-{ name: "ur03", path: "/user-research/getting-support/" },
-{ name: "ur04", path: "/user-research/team-research/" },
-{ name: "ur05", path: "/user-research/planning-user-research/" },
-{ name: "ur06", path: "/user-research/planning-user-research/using-existing-research-data/" },
-{ name: "ur07", path: "/user-research/research-stages/" },
-{ name: "ur08", path: "/user-research/find-user-research-participants/" },
-{ name: "ur09", path: "/user-research/interviewing-users/" },
-{ name: "ur10", path: "/user-research/consent-forms/" },
-{ name: "ur11", path: "/user-research/paying-incentives/" },
-{ name: "ur12", path: "/user-research/analysing-user-research/" },
-{ name: "ur13", path: "/user-research/understanding-diversity/" },
+{ name: "ur01", path: "/topics/user-research/" },
+{ name: "ur02", path: "/topics/user-research/identifying-users-needs/" },
+{ name: "ur03", path: "/topics/user-research/getting-support/" },
+{ name: "ur04", path: "/topics/user-research/team-research/" },
+{ name: "ur05", path: "/topics/user-research/planning-user-research/" },
+{ name: "ur06", path: "/topics/user-research/planning-user-research/using-existing-research-data/" },
+{ name: "ur07", path: "/topics/user-research/research-stages/" },
+{ name: "ur08", path: "/topics/user-research/find-user-research-participants/" },
+{ name: "ur09", path: "/topics/user-research/interviewing-users/" },
+{ name: "ur10", path: "/topics/user-research/consent-forms/" },
+{ name: "ur11", path: "/topics/user-research/paying-incentives/" },
+{ name: "ur12", path: "/topics/user-research/analysing-user-research/" },
+{ name: "ur13", path: "/topics/user-research/understanding-diversity/" },
 
 // Content Strategy Guide
 { name: "cs01", path: "/content-strategy/" },
