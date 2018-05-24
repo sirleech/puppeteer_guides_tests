@@ -69,22 +69,26 @@ module.exports = {
 { name: "cs02", path: "/content-strategy/understand-channel-ecosystem/" },
 { name: "cs03", path: "/content-strategy/understand-channel-ecosystem/content-discovery/" },
 { name: "cs04", path: "/content-strategy/understand-channel-ecosystem/show-content-ecosystem/" },
+
 { name: "cs05", path: "/content-strategy/start-content-strategy/" },
 { name: "cs06", path: "/content-strategy/start-content-strategy/senior-executive-buy-in/" },
 { name: "cs07", path: "/content-strategy/start-content-strategy/show-problem-evidence/" },
 { name: "cs08", path: "/content-strategy/start-content-strategy/show-problem-evidence/content-strategy-template/" },
 { name: "cs09", path: "/content-strategy/start-content-strategy/tips-pitching-case/" },
+
 { name: "cs10", path: "/content-strategy/identify-business-needs/" },
 { name: "cs11", path: "/content-strategy/identify-business-needs/who-to-talk/" },
 { name: "cs12", path: "/content-strategy/identify-business-needs/who-to-talk/business-alignment-workshop/" },
 { name: "cs13", path: "/content-strategy/identify-business-needs/what-business-needs/" },
 { name: "cs14", path: "/content-strategy/identify-business-needs/getting-agreement/" },
+
 { name: "cs15", path: "/content-strategy/define-user-content-needs/" },
 { name: "cs16", path: "/content-strategy/define-user-content-needs/create-actionable-artefacts/" },
 { name: "cs17", path: "/content-strategy/define-user-content-needs/create-actionable-artefacts/user-profiles/" },
 { name: "cs18", path: "/content-strategy/define-user-content-needs/create-actionable-artefacts/journey-maps/" },
 { name: "cs19", path: "/content-strategy/define-user-content-needs/create-actionable-artefacts/top-tasks/" },
 { name: "cs20", path: "/content-strategy/define-user-content-needs/create-actionable-artefacts/user-job-stories/" },
+
 { name: "cs21", path: "/content-strategy/audit-content/" },
 { name: "cs22", path: "/content-strategy/audit-content/prove-value/" },
 { name: "cs23", path: "/content-strategy/audit-content/plan-your-audit/" },
@@ -93,11 +97,13 @@ module.exports = {
 { name: "cs26", path: "/content-strategy/audit-content/analyse-evaluate/" },
 { name: "cs27", path: "/content-strategy/audit-content/analyse-evaluate/content-evaluation-checklist/" },
 { name: "cs28", path: "/content-strategy/audit-content/action-audit/" },
+
 { name: "cs29", path: "/content-strategy/set-goals-measure-success/" },
 { name: "cs30", path: "/content-strategy/set-goals-measure-success/glossary-measurement-definitions/" },
 { name: "cs31", path: "/content-strategy/set-goals-measure-success/goals-objectives-kpis/" },
 { name: "cs32", path: "/content-strategy/set-goals-measure-success/measure-success/" },
 { name: "cs33", path: "/content-strategy/set-goals-measure-success/report-findings/" },
+
 { name: "cs34", path: "/content-strategy/set-up-governance/" },
 { name: "cs35", path: "/content-strategy/set-up-governance/improve-content-maturity/" },
 { name: "cs36", path: "/content-strategy/set-up-governance/apply-content-governance-model/" },
@@ -106,12 +112,24 @@ module.exports = {
 { name: "cs39", path: "/content-strategy/set-up-governance/accountability-ownership/identify-tasks-skills/" },
 { name: "cs40", path: "/content-strategy/set-up-governance/endorse-standards-guidelines/" },
 { name: "cs41", path: "/content-strategy/set-up-governance/endorse-standards-guidelines/guidelines-standards-checklist/" },
+
 { name: "cs42", path: "/content-strategy/remove-content/" },
 { name: "cs43", path: "/content-strategy/remove-content/get-approval-remove/" },
 { name: "cs44", path: "/content-strategy/remove-content/create-removal-plan/" },
 { name: "cs45", path: "/content-strategy/remove-content/archive-record-content/" },
 { name: "cs46", path: "/content-strategy/remove-content/remove-content-from-web/" },
 { name: "cs47", path: "/content-strategy/remove-content/decommission-website/" },
+
+{ name: "cs47a", path: "/content-strategy/information-architecture/" },
+{ name: "cs47b", path: "/content-strategy/information-architecture/review-ia/" },
+{ name: "cs47c", path: "/content-strategy/information-architecture/plan-ia/" },
+{ name: "cs47d", path: "/content-strategy/information-architecture/define-ia/" },
+{ name: "cs47e", path: "/content-strategy/information-architecture/define-ia/card-sorting/" },
+{ name: "cs47f", path: "/content-strategy/information-architecture/define-ia/scenario-based-testing/" },
+{ name: "cs47g", path: "/content-strategy/information-architecture/test-ia/" },
+{ name: "cs47h", path: "/content-strategy/information-architecture/map-ia/" },
+{ name: "cs47i", path: "/content-strategy/information-architecture/ia-checklist/" },
+
 { name: "cs48", path: "/content-strategy/manage-content-requests/" },
 { name: "cs49", path: "/content-strategy/manage-content-requests/plan-content/" },
 { name: "cs50", path: "/content-strategy/manage-content-requests/plan-content/content-planning-workshop/" },
@@ -126,6 +144,7 @@ module.exports = {
 { name: "cs59", path: "/content-strategy/manage-content-requests/maintain-improve-content/" },
 { name: "cs60", path: "/content-strategy/manage-content-requests/maintain-improve-content/maintain-plan/" },
 { name: "cs61", path: "/content-strategy/manage-content-requests/maintain-improve-content/maintain-checklist/" },
+
 { name: "cs62", path: "/content-strategy/urgent-content-requests/" },
 { name: "cs63", path: "/content-strategy/urgent-content-requests/fixed-deadlines/" },
 { name: "cs64", path: "/content-strategy/urgent-content-requests/fixed-deadlines/published-content-issues-register/" },
