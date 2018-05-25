@@ -26,7 +26,7 @@ if (!fs.existsSync(dir)){
 
   // set the domain (test,stage,prod)
   // do not add a trailing slash
-  const env = 'https://service-manual-test-staging.apps.y.cld.gov.au';
+  const env = 'https://service-manual.apps.y.cld.gov.au';
 
   //////////////////////////////////////////////////
   //
