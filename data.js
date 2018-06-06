@@ -120,6 +120,7 @@ module.exports = {
 { name: "cs46", path: "/content-strategy/remove-content/remove-content-from-web/" },
 { name: "cs47", path: "/content-strategy/remove-content/decommission-website/" },
 
+// IA
 { name: "cs47a", path: "/content-strategy/information-architecture/" },
 { name: "cs47b", path: "/content-strategy/information-architecture/review-ia/" },
 { name: "cs47c", path: "/content-strategy/information-architecture/plan-ia/" },
@@ -129,6 +130,19 @@ module.exports = {
 { name: "cs47g", path: "/content-strategy/information-architecture/test-ia/" },
 { name: "cs47h", path: "/content-strategy/information-architecture/map-ia/" },
 { name: "cs47i", path: "/content-strategy/information-architecture/ia-checklist/" },
+
+// SEO
+{ name: "cs47j", path: "/content-strategy/search-engine-optimisation/" },
+{ name: "cs47k", path: "/content-strategy/search-engine-optimisation/seo-terms/" },
+{ name: "cs47l", path: "/content-strategy/search-engine-optimisation/on-page-seo/" },
+{ name: "cs47m", path: "/content-strategy/search-engine-optimisation/off-page-seo/" },
+
+// CMS
+{ name: "cs47n", path: "/content-strategy/content-management-system/" },
+{ name: "cs47o", path: "/content-strategy/content-management-system/cms-requirements/" },
+{ name: "cs47p", path: "/content-strategy/content-management-system/cms-requirements-checklist/" },
+{ name: "cs47q", path: "/content-strategy/content-management-system/configure-your-cms/" },
+
 
 { name: "cs48", path: "/content-strategy/manage-content-requests/" },
 { name: "cs49", path: "/content-strategy/manage-content-requests/plan-content/" },
